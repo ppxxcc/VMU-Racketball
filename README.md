@@ -5,7 +5,7 @@ About
 =====
 This is a simple game demo for the VMU which implements a single player pong-like experience, so, racketball.
 
-![Demo gif](https://github.com/pxcla/VMU-Racketball/blob/master/demo.gif)
+![Demo gif](https://github.com/ppxxcc/VMU-Racketball/blob/master/demo.gif)
 
 Build Instructions
 ==================
